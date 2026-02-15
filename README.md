@@ -113,7 +113,11 @@ The lab highlights the importance of feature selection and visualization in patt
 
 
 ![Dr_Shashi_Tharoor](https://github.com/user-attachments/assets/10d887df-0956-4cfe-a098-c354b15c7866)
-<img width="619" height="340" alt="picture" src="https://github.com/user-attachments/assets/3e187b18-9a6c-4778-9de7-76a2c43e9590" />
+
+<img width="619" height="340" alt="picture" src="https://github.com/user-attachments/assets/6fab7811-b9a8-421a-8412-ce3427117e6c" />
+
+
+<img width="685" height="364" alt="Screenshot 2026-02-15 224456" src="https://github.com/user-attachments/assets/169e15e8-7526-4cc8-9a5d-6b530b4278a7" />
 
 <img width="624" height="344" alt="Screenshot 2026-02-15 210728" src="https://github.com/user-attachments/assets/8e15fe74-e9fa-459c-86ce-9b54449aebae" />
 
