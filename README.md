@@ -54,21 +54,21 @@ Classification is therefore performed using a **distance-based decision rule**.
 ### Face Detection
 Detected faces are enclosed within bounding boxes.
 
-![Face Detection Output](images/faces_detected.png)
+
 
 ---
 
 ### Hue–Saturation Feature Distribution
 The extracted features are visualized in 2D HS-space along with cluster centroids.
 
-![K-Means Clustering](images/KMeans_clustering.png)
+
 
 ---
 
 ### Template Classification
 The template face is plotted alongside clustered data points to illustrate its assigned group.
 
-![Template Classification](images/templateImage.png)
+
 
 ---
 
@@ -104,7 +104,16 @@ The lab highlights the importance of feature selection and visualization in patt
 - Matplotlib  
 - Scikit-learn  
 
----
+
 
 ## Repository Structure
+
+
+<img width="602" height="400" alt="FACULTY" src="https://github.com/user-attachments/assets/8cccf630-4ba9-4d02-b517-187286272d16" />
+
+
+![Dr_Shashi_Tharoor](https://github.com/user-attachments/assets/10d887df-0956-4cfe-a098-c354b15c7866)
+<img width="619" height="340" alt="picture" src="https://github.com/user-attachments/assets/3e187b18-9a6c-4778-9de7-76a2c43e9590" />
+
+<img width="624" height="344" alt="Screenshot 2026-02-15 210728" src="https://github.com/user-attachments/assets/8e15fe74-e9fa-459c-86ce-9b54449aebae" />
 
